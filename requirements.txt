@@ -1,0 +1,5 @@
+azure.iot.device
+ultralytics
+deep_sort_realtime.deepsort_tracker
+numpy
+opencv-python
