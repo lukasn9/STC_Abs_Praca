@@ -12,7 +12,7 @@ import threading
 from time import sleep
 from ultralytics import YOLO
 
-CONNECTION_STRING = "HostName=iotHubN.azure-devices.net;DeviceId=device1;SharedAccessKey=mMPEerI1O7BL5LE3+keZx/1AjwHLxwBuZAIoTNOv6/4="
+CONNECTION_STRING = "[Iot Hub connection string]"
 CONFIDENCE_THRESHOLD = 0.75
 MAX_AGE = 50
 DARK_BLUE = (27, 45, 166)
